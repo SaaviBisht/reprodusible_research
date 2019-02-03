@@ -1,4 +1,13 @@
-* Load the data
+---
+title: "PeerAssessment1"
+output:
+  pdf_document: default
+  word_document: default
+  html_document: default
+  
+  
+  
+  * Load the data
 ```{r echo=TRUE}
 activity <- read.csv("activity.csv")
 ```
